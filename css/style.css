@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+@import "reset.css";
+@import "main-aggregation.css";
+@import "main-set.css";
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: whitesmoke;
+  font-family: "Kanit", sans-serif;
+}
